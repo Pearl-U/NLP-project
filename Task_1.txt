@@ -1,0 +1,7 @@
+Capstone Project 5 -Task 33
+
+Compulsory Task 1
+
+a)Text classification: The use of predefined categories, such as promotions, important
+b)Automated summarization: it works with huge amounts of information and shortens it to a form that is useful
+c)Question answering: the answers from the patients can be used for a diagnosis

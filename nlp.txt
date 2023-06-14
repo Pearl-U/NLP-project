@@ -1,0 +1,17 @@
+Capstone Project 5 -Task 33
+
+Compulsory Task 2
+
+Environment - Home / Hobby
+Youtube channel content -Trying to determine what content subscribers enjoy
+
+Look at uploaded  videos over the past 3 months and do the following:
+1)Look at view counts
+2)Look at like to dislike ratios
+3)and look at comments
+
+Categories the uploaded videos into different genres:
+Hair care, chit chat, vlogs
+
+To determine which genre to stick to, look at the videos that have to most views and likes.
+The likes/dislike and the comments will let you know how your viewers feel about your content. 

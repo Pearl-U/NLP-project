@@ -1,0 +1,20 @@
+Capstone Project 5 -Task 33
+
+Compulsory Task 3
+
+Innovative technology using NLP: Amazon's Alexa
+Reference- https://www.amazon.com/b?ie=UTF8&node=21576558011
+
+What is Alexa?
+Alexa is Amazon’s cloud-based artificial inteligence (AI) voice service program.
+
+What does it do? 
+Alexa can play your favorite song or podcast, read the latest headlines, dim the lights in your living room, 
+provide weather, order food and more.
+Basically, Alexa wants to make your life easier and more fun by helping you voice control your world.
+
+How does it work?
+Alexa lives in the cloud, anywhere there's internet access and a device that can connect to Alexa.
+Making Alexa part of your day is as simple as asking a question.
+Say 'Alexa' before the question you want to ask and Alexa will respond.
+It matches the words spoken to a database of information and returns the best match to the question/ command
